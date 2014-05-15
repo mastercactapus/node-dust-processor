@@ -1,0 +1,31 @@
+{
+  "name": "dust-processor",
+  "version": "0.0.0",
+  "description": "Collection of tools and middleware for dustjs",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mastercactapus/node-dust-processor.git"
+  },
+  "keywords": [
+    "dust",
+    "dustjs",
+    "dustjs-linkedin",
+    "express",
+    "middleware",
+    "browserify",
+    "require",
+    "promise"
+  ],
+  "author": "Nathan Caza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastercactapus/node-dust-processor/issues"
+  },
+  "homepage": "https://github.com/mastercactapus/node-dust-processor"
+}
