@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "bluebird": "^1.2.4",
+    "lodash": "^2.4.1",
     "through": "^2.3.4"
   },
   "devDependencies": {
